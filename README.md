@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vithesh Thiraviyam
+# Hi 👋, I'm Vithesh
 
 ### Full-Stack Developer | CSE Student | Problem Solver
 
@@ -92,10 +92,9 @@ Currently focusing on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
-
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vithesh-t-8175b3276/)
+- 📧 Email: 23cseb60.vithesh@gmail.com
+- 
 ---
 
 ### 💡 "Build. Learn. Improve. Repeat."
