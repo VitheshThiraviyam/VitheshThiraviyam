@@ -82,14 +82,6 @@ Currently focusing on:
 
 ---
 
-## 📈 GitHub Stats
-
-![Vithesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitheshThiraviyam&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitheshThiraviyam&layout=compact&hide_border=true)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vithesh-t-8175b3276/)
